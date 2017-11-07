@@ -20,6 +20,8 @@ public class LambdaRun {
         students.add("test4");
         students.add("test5");
 
+
+
         new Thread(() -> System.out.println("==============")).start();
 
         Predicate<Integer> testOne = x -> x > 5;
