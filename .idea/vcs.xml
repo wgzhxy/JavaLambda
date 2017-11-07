@@ -2,7 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/collection" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/stream" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/advance" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/base" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/collections" vcs="svn" />
   </component>
 </project>
