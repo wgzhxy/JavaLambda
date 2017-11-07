@@ -5,7 +5,7 @@ import org.wanggz.dto.Student;
 
 import java.util.function.BiConsumer;
 
-public class BiConsumerConsumerTest {
+public class BiConsumerTest {
 
     @Test
     public void testBiConsumerConsumer() {
