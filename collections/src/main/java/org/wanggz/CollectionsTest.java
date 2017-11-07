@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class CollectionsRun {
+public class CollectionsTest {
 
     @Test
     public void test_List_stream_collect_map() {

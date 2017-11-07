@@ -8,7 +8,7 @@ import org.wanggz.utils.StudentTools;
 import java.util.List;
 import java.util.function.Supplier;
 
-public class SupplierRun {
+public class SupplierTest {
 
     @Test
     public void testSupplier() {

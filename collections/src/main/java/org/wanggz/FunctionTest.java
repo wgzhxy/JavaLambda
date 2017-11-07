@@ -12,7 +12,7 @@ import java.util.function.Function;
 import java.util.function.LongFunction;
 import java.util.stream.Collectors;
 
-public class FunctionRun {
+public class FunctionTest {
 
     @Test
     public void testFunction() {
@@ -55,8 +55,6 @@ public class FunctionRun {
 
     @Test
     public void testFunction_Double_To_Long() {
-
-        List<Student> students = StudentTools.getStudents();
 
         DoubleToLongFunction fun = (x) -> new Double(x).longValue();
 
