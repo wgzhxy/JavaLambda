@@ -1,4 +1,4 @@
-package org.wanggz.lambda;
+package org.wanggz.lambda.advance;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
