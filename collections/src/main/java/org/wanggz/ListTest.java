@@ -2,7 +2,6 @@ package org.wanggz;
 
 import com.alibaba.fastjson.JSON;
 import org.junit.Test;
-import org.wanggz.dto.Student;
 import org.wanggz.dto.StudentNew;
 import org.wanggz.utils.StudentTools;
 
@@ -10,6 +9,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * @author guangzhong.wgz
+ */
 public class ListTest {
 
     @Test

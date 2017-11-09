@@ -12,6 +12,9 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * @author guangzhong.wgz
+ */
 public class CollectionsTest {
 
     @Test
