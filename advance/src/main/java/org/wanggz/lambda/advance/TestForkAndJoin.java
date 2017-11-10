@@ -7,6 +7,9 @@ import java.util.concurrent.ForkJoinTask;
 import java.util.concurrent.RecursiveTask;
 
 
+/**
+ * 双端队列， 实现并行处理，采用工作窃取算法
+ */
 public class TestForkAndJoin {
 
     @Test
