@@ -27,7 +27,7 @@ public final class StringCollector implements Collector<Student, List<String>, S
 
     @Override
     public BiConsumer<List<String>, Student> accumulator() {
-        return (x, y) -> x.add(y.getName());
+        return (x, y) -> x.add(y.getName() + "-----------");
     }
 
     @Override
